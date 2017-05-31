@@ -1,0 +1,2 @@
+#!/bin/sh
+python /home/pi/Desktop/piDir/takeReadings.py
